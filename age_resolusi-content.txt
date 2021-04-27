@@ -1,7 +1,9 @@
 RENCANA KONTENT AGE
 
 - Belajar Tablue
-  * course edamy
+  * course udamy
+  * course couseera
   * youtube
 - Belajar R
 - Belajar pyhton
+- Belajar SQL postgress
