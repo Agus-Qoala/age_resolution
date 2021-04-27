@@ -3,5 +3,8 @@ RENCANA KONTENT AGE
 - Belajar Tablue
   * course edamy
   * youtube
+  * angular
+  * react
 - Belajar R
 - Belajar pyhton
+- Belajar PHP
